@@ -51,9 +51,9 @@
                 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 
-        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.source>21</maven.compiler.source>
                 
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.target>21</maven.compiler.target>
                 
         <testng.version>7.4.0</testng.version>
                 
@@ -63,7 +63,7 @@
                 
         <json-simple.version>1.1.1</json-simple.version>
                 
-        <surefire.plugin.version>3.0.0-M5</surefire.plugin.version>
+        <surefire.plugin.version>3.5.3</surefire.plugin.version>
                 
         <config.file>config/sample-test.testng.xml</config.file>
             
